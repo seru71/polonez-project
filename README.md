@@ -2,7 +2,7 @@
 I will try to put updates on my Polonez fellowship here, together with some materials, links and other useful information.
 Major updates on [Remus](https://github.com/seru71/Remus) development should also find its way on the timeline down here.
 
-Some basic information about the project's scope and aims can be found on hosting department pages ([eng](https://biostat.umed.pl/polonez.php) | [pl](https://biostat.umed.pl/polonez.php))
+Some basic information about the project's scope and aims can be found on hosting department pages: [eng](https://biostat.umed.pl/polonez.php) or [pl](https://biostat.umed.pl/polonez.php)
 
 ----
 
@@ -22,4 +22,5 @@ The slides are [here](materials/SMM18_presentation.pdf).
 This project is financed by a POLONEZ 3 grant awarded by the National Science Center in Poland, funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement.
 
 ![eu_logo](img/eu_logo.jpg)
+
 ![ncn_logo](img/ncn_logo.png)

@@ -1,2 +1,2 @@
 # polonez-project
-Materials related to Polonez fellowship
+Materials related to my Polonez fellowship

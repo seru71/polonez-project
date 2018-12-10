@@ -1,6 +1,6 @@
 
 I will try to put updates on my Polonez fellowship here, together with some materials, links and other useful information.
-Major updates on (Remus)[https://seru71.github.com/Remus) development should also find its way on the timeline down here.
+Major updates on [Remus](https://seru71.github.com/Remus) development should also find its way on the timeline down here.
 
 ----
 

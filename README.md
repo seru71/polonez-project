@@ -16,6 +16,15 @@ I was invited to give a talk at excellent PhD School in Molecular Medicine organ
 Had a great time in Krakow presenting my view on shift from WES to WGS in medical diagnostics of rare disorders, and an update on Remus development.
 The slides are [here](materials/SMM18_presentation.pdf).
 
+## September 5th, 2018
+
+This year's [Polish Bioinformatics Society](https://www.ptbi.org.pl) Symposium ([PTBi2018](http://ptbi2018.pwr.edu.pl)) is taking place in Wrocław. 
+I have a pleasue to present a flash talk on [improving detection accuracy of duplicaitons](materials/PTBI2018.pdf).
+
+## June 29th, 2018
+
+I am at excellent bioinformatics conference in Toruń - [BIT18](https://www.ptbi.org.pl/website/conferences/bit2018/), [presenting Remus](materials/BIT18.pdf). 
+
 
 ---
 

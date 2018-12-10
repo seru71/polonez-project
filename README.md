@@ -24,7 +24,7 @@ This project has received funding from the European Union’s Horizon 2020 resea
 
 <p float="left">
   <img src="img/eu_logo.jpg" width=120>
-  <img src="img/ncn_logo.png" width=800>  
+  <img src="img/ncn_logo.png" width=720>  
 </p>
 
 

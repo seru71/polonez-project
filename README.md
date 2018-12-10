@@ -19,8 +19,9 @@ The slides are [here](materials/SMM18_presentation.pdf).
 
 ---
 
-This project is financed by a POLONEZ 3 grant awarded by the National Science Center in Poland, funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement.
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 665778.
 
-![eu_logo](img/eu_logo.jpg)
+![eu_logo](img/eu_logo.jpg) ![ncn_logo](img/ncn_logo.png)
 
-![ncn_logo](img/ncn_logo.png)
+<img align="left"  src="img/eu_logo.png">
+<img align="right" src="img/ncn_logo.png">

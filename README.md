@@ -21,13 +21,5 @@ The slides are [here](materials/SMM18_presentation.pdf).
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 665778.
 
-![eu_logo](img/eu_logo.jpg) ![ncn_logo](img/ncn_logo.png)
-
-<p float="left">
-  <img src="img/eu_logo.jpg" width=120>
-  <img src="img/ncn_logo.png" width=720>  
-</p>
-
-
-
+![ncn_logo](img/ncn_logo.png) ![eu_logo](img/eu_logo.jpg)
 

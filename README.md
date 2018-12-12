@@ -37,7 +37,7 @@ I am at excellent bioinformatics conference in Toruń - [BIT18](https://www.ptbi
 
 ## May 29th, 2018
 
-Today I visited fellow bioinformaticians from [theta](http://theta.edu.pl) at [Wroclaw University of Enviromental and Life Sciences](https://www.upwr.edu.pl/en). 
+Today I visited fellow bioinformaticians from [Biostatistics Group](http://theta.edu.pl) at [Wroclaw University of Enviromental and Life Sciences](https://www.upwr.edu.pl/en). 
 I was invited for a presentation for students of BSc and MSc programmes to talk about my work.
 I took this opportunity to also presented them a list of volountary summer projects where they could get some programming practice and hands-on experience with NGS data analysis. 
 Maybe our group will source some bioinformatitians from this crowd...

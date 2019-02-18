@@ -30,7 +30,7 @@ The slides are [here](materials/SMM18_presentation.pdf).
 
 ## November 9th, 2018
 Had a great time at Intelliseq and some good fun implementing [IGV-screenshooter](https://github.com/seru71/igv-screenshooter-html).
-Check it out! [igv-screenshooter](img/igv-screenshooter.png)
+Check it out! ![igv-screenshooter](img/igv-screenshooter.png)
 
 
 ## November 5th, 2018

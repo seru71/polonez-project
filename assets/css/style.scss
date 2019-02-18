@@ -7,3 +7,9 @@
 }
 
 @import "{{ site.theme }}";
+
+.inner {
+  width: 820px;
+  margin: 0 auto;
+}
+

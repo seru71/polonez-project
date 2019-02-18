@@ -2,7 +2,7 @@
 
 <img align="left"  src="img/btm_logo.png">
 <img align="right" src="img/umed_logo.png">
-
+<br><br><br><br>
 ----
 
 I will try to put updates on my Polonez fellowship here, together with some materials, links and other useful information.
@@ -87,8 +87,7 @@ Slides for my presentation are [here](materials/PolPeDiab2018.pdf).
 
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 665778.
 
-<img align="left"  src="img/eu_logo.jpg"> 
-<img align="right" src="img/ncn_logo.png"> 
+![eu](img/eu_logo.jpg)
+![ncn](img/ncn_logo.png)
 
----
 

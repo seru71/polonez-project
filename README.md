@@ -1,8 +1,7 @@
 
 
-<img align="left"  src="img/btm_logo.png">
-<img align="right" src="img/umed_logo.png">
-<br><br><br><br>
+<img align="left"  src="img/btm_logo.png"> <img align="right" src="img/umed_logo.png">
+<br><br><br><br><br>
 
 
 I will try to put updates on my Polonez fellowship here, together with some materials, links and other useful information.

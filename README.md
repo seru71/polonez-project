@@ -1,7 +1,7 @@
 
 
 ![btm](img/btm_logo.png)
-![umed](img/umed_logo.png)
+<img align="right" src="img/umed_logo.png">
 
 I will try to put updates on my Polonez fellowship here, together with some materials, links and other useful information.
 Major updates on [Remus](https://github.com/seru71/Remus) development should also find its way on the timeline down here.

@@ -11,6 +11,10 @@ Some basic information about the project's scope and aims can be found on hostin
 
 ----
 
+## February 5th, 2019
+And here is an example of igv-screenshooter-html in action on some trio data: [igv-screenshooter-trio.html](materials/igv-screenshooter_trio_example.html)
+
+
 ## January 10th, 2019
 Let me introduce [Dawid](https://github.com/dawidsielski), student of final year of Applied Computer Science at [Lodz University of Technology](https://www.p.lodz.pl/en). 
 I will be co-supervising Dawid's MSc thesis where he develops a system for sharing genetic variant frequency data. 

@@ -11,6 +11,21 @@ Some basic information about the project's scope and aims can be found on hostin
 
 ----
 
+## April 5th, 2019
+I have spend some time recently tuning a custom pipeline that will be used here at [BTM](http://biostat.umed.pl) to process NGS data from microRNA profiling experiments.
+Tested out three different mappers, several approaches and settled on one that is implemented as a default path [this one](https://github.com/seru71/microrna-profiling-pipeline).
+In short, UMI-extraction, followed by bowtie2 local mapping to forward strand of [miRBase](http://mirbase.org) mature miRs, and separate counting of unique and multimapping reads.
+Plus some QC stats generation. All stitched together with [Ruffus](http://www.ruffus.org.uk). 
+Help yourselves, if you fancy.
+
+## April 3rd, 2019
+Remus has gotten its permanent URL: [http://remus.btm.umed.pl](http://remus.btm.umed.pl).
+Currently it points to a test/development version of the tool, but I hope to be ready to provide a production release soon.
+
+## March 19th, 2019
+We will be going to Gothenburg to present [Remus](https://github.com/seru71/Remus) and our study on HNF1B-MODY at [ESHG 2019](https://2019.eshg.org/). 
+Looking forward to many great talks and meeting some colleagues from abroad.
+
 ## February 5th, 2019
 And here is an example of igv-screenshooter-html in action on some trio data: [igv-screenshooter-trio.html](materials/igv-screenshooter_trio_example.html)
 

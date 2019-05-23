@@ -11,6 +11,16 @@ Some basic information about the project's scope and aims can be found on hostin
 
 ----
 
+## May 23rd, 2019
+After a longer break, a new release of Remus is out - [v0.4](https://github.com/seru71/Remus/releases/tag/v0.4).
+Starting from this version, hg19 and hg38 ENCODE data are lifted over to hg38 and hg19 (respectively), joined, and used for querying enhancer and available chromatin regions.
+Similarly, hg19-based FANTOM5 promoter and enhancer data is lifted over to GRCh38. 
+Support for both genome build to full extent.
+
+## April 18th, 2019
+Yesterday I came back from a very inspiring study visit at [MNM.bio](http://mnm.bio). 
+Look forward to cutting-edge whole-genome analystics in rare-disease and cancer diagnostics!
+
 ## April 5th, 2019
 I have spend some time recently tuning a custom pipeline that will be used here at [BTM](http://biostat.umed.pl) to process NGS data from microRNA profiling experiments.
 Tested out three different mappers, several approaches and settled on one that is implemented as a default path [this one](https://github.com/seru71/microrna-profiling-pipeline).

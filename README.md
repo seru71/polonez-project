@@ -22,7 +22,7 @@ Yesterday I came back from a very inspiring study visit at [MNM.bio](http://mnm.
 Look forward to cutting-edge whole-genome analystics in rare-disease and cancer diagnostics!
 
 ## April 5th, 2019
-I have spend some time recently tuning a custom pipeline that will be used here at [BTM](http://biostat.umed.pl) to process NGS data from microRNA profiling experiments.
+I have spent some time recently tuning a custom pipeline that will be used here at [BTM](http://biostat.umed.pl) to process NGS data from microRNA profiling experiments.
 Tested out three different mappers, several approaches and settled on one that is implemented as a default path [this one](https://github.com/seru71/microrna-profiling-pipeline).
 In short, UMI-extraction, followed by bowtie2 local mapping to forward strand of [miRBase](http://mirbase.org) mature miRs, and separate counting of unique and multimapping reads.
 Plus some QC stats generation. All stitched together with [Ruffus](http://www.ruffus.org.uk). 

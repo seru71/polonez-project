@@ -11,6 +11,16 @@ Some basic information about the project's scope and aims can be found [here](pr
 
 ----
 
+## June, 24th, 2019
+Trying to become even more effective after the "Personal Effectiveness" training organized by [National Science Centre](http://ncn.gov.pl) and [Vitae](https://www.vitae.ac.uk) this weekend.
+Starting today, I will (among other things) stop checking email as the first thing in the morning. 
+Hope that this will prevent distraction and allow me to use the morning hours on important tasks.
+Let's see how it goes.
+
+## June, 19th, 2019
+Last week, together with Arek, we were presenting our work on European Human Genetics Conference (ESHG19) in Gothenburg, Sweden. 
+Here you can view the posters for [Remus](materials/ESHG19_Remus_poster.pdf) and [HNF1b study (coming soon)](materials/ESHG19_HNF1b_poster.pdf) 
+
 ## May 23rd, 2019
 After a longer break, a new release of Remus is out - [v0.4](https://github.com/seru71/Remus/releases/tag/v0.4).
 Starting from this version, hg19 and hg38 ENCODE data are lifted over to hg38 and hg19 (respectively), joined, and used for querying enhancer and available chromatin regions.

@@ -7,7 +7,7 @@
 I will try to put updates on my Polonez fellowship here, together with some materials, links and other useful information.
 Major updates on [Remus](https://github.com/seru71/Remus) development should also find its way on the timeline down here.
 
-Some basic information about the project's scope and aims can be found on hosting department [pages](https://biostat.umed.pl/polonez.php).
+Some basic information about the project's scope and aims can be found [here](project_description.htm) and on hosting department [pages](https://biostat.umed.pl/polonez.php).
 
 ----
 

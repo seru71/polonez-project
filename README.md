@@ -26,7 +26,7 @@ I will post a link a soon as the online version of the article is ready.
 We had a nice turnout at the workshop on whole-exome sequencing data analysis and variant interpretation. Thanks to all the participants!
 
 ## November 4th, 2019
-Last week Arek presented our work on <i>HNF1B</i>-MODY at the 45th ISPAD conference in Boston.
+Last week Arek presented our work on <i>HNF1B</i>-MODY at the [45th ISPAD conference](https://2019.ispad.org/ in Boston.
 Here is the [poster](materials/ISPAD19_HNF1b_poster.pdf).
 
 ## September 21st, 2019

@@ -7,19 +7,41 @@
 I will try to put updates on my Polonez fellowship here, together with some materials, links and other useful information.
 Major updates on [Remus](https://github.com/seru71/Remus) development should also find its way on the timeline down here.
 
-Some basic information about the project's scope and aims can be found [here](project_description.htm) and on hosting department [pages](https://biostat.umed.pl/polonez.php).
+Some basic information about the project's scope and aims can be found [here](project_description.htm) and on hosting departments' [pages](https://biostat.umed.pl/pl/2019/10/09/narzedzia-do-poszukiwanie-patogennych-mutacji-w-regionach-regulatorowych-ludzkiego-genomu/).
 
 ----
+ 
+## January 9th, 2020
+Our manuscript "A cross-sectional study of patients referred for <i>HNF1B</i>-MODY genetic testing due to cystic kidneys and diabetesis" is [available online](https://onlinelibrary.wiley.com/doi/10.1111/pedi.12959).
 
-## June, 24th, 2019
+## December 31st, 2019
+The project officially ends, but the work on Remus, the manuscripts and the data is not complete yet. 
+I will post the most important updates here.
+
+## December 6th, 2019
+Great news from [Pediatric Diabetes](https://onlinelibrary.wiley.com/journal/13995448) - out manuscript on <i>HNF1B</i>-MODY has been accepted for publication. 
+I will post a link a soon as the online version of the article is ready.
+
+## November 20th, 2019
+We had a nice turnout at the workshop on whole-exome sequencing data analysis and variant interpretation. Thanks to all the participants!
+
+## November 4th, 2019
+Last week Arek presented our work on <i>HNF1B</i>-MODY at the 45th ISPAD conference in Boston.
+Here is the [poster](materials/ISPAD19_HNF1b_poster.pdf).
+
+## September 21st, 2019
+Last weekend I attended my second Polonez training. This one's topic was "Working with others", and one of the main themes was communication. 
+Did you know that one of the main reasons why projects fail is poor communication?
+
+## June 24th, 2019
 Trying to become even more effective after the "Personal Effectiveness" training organized by [National Science Centre](http://ncn.gov.pl) and [Vitae](https://www.vitae.ac.uk) this weekend.
 Starting today, I will (among other things) stop checking email as the first thing in the morning. 
 Hope that this will prevent distraction and allow me to use the morning hours on important tasks.
 Let's see how it goes.
 
-## June, 19th, 2019
+## June 19th, 2019
 Last week, together with Arek, we were presenting our work on European Human Genetics Conference (ESHG19) in Gothenburg, Sweden. 
-Here you can view the posters for [Remus](materials/ESHG19_Remus_poster.pdf) and [HNF1b study (coming soon)](materials/ESHG19_HNF1b_poster.pdf) 
+Here you can view the posters for [Remus](materials/ESHG19_Remus_poster.pdf) and [HNF1b study](materials/ESHG19_HNF1b_poster.pdf) 
 
 ## May 23rd, 2019
 After a longer break, a new release of Remus is out - [v0.4](https://github.com/seru71/Remus/releases/tag/v0.4).

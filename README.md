@@ -11,6 +11,12 @@ Some basic information about the project's scope and aims can be found [here](pr
 
 ----
  
+## February 24th, 2020
+New relase of Remus is out ->  [v0.5](https://github.com/seru71/Remus/releases)
+
+## January 30th, 2020
+Towards the end of last year I started writing a series of articles on bioinformatics and analysis of whole-genome sequencing data. The articles were targetted to a broad audience and written in Polsih. The first two of them are out in the first issue of an online genetics magazine [genetyka.bio](https://genetyka.bio/), together with a bunch of other very good articles. If you read Polish - enjoy the reading!
+
 ## January 9th, 2020
 Our manuscript "A cross-sectional study of patients referred for <i>HNF1B</i>-MODY genetic testing due to cystic kidneys and diabetesis" is [available online](https://onlinelibrary.wiley.com/doi/10.1111/pedi.12959).
 

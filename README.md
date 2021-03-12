@@ -10,6 +10,14 @@ Major updates on [Remus](https://github.com/seru71/Remus) development should als
 Some basic information about the project's scope and aims can be found [here](project_description.htm) and on hosting departments' [pages](https://biostat.umed.pl/pl/2019/10/09/narzedzia-do-poszukiwanie-patogennych-mutacji-w-regionach-regulatorowych-ludzkiego-genomu/).
 
 ----
+
+## March 5th, 2021
+Remus has been published in [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics) as part of the research topic [Non-Coding Variants: From Interpretation to Personalized Medicine](https://www.frontiersin.org/research-topics/17114/non-coding-variants-from-interpretation-to-personalized-medicine#articles). The manuscript is freely available online [here](https://www.frontiersin.org/articles/10.3389/fgene.2021.638960/full).
+
+![image](https://user-images.githubusercontent.com/2869419/111008143-b8916e00-8390-11eb-8407-6fccb3793263.png)
+
+## January 25th, 2021
+Remus has been accepted for publication in [Frontiers in Genetics](https://www.frontiersin.org/journals/genetics). Stay tuned for the updates!
  
 ## February 24th, 2020
 New relase of Remus is out ->  [v0.5](https://github.com/seru71/Remus/releases)
